@@ -19,7 +19,10 @@
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+* [ArGIS JavaScript Tutorial--ArcGIS](https://developers.arcgis.com/documentation/mapping-apis-and-services/tutorials/)
+* [JavaScript--W3Schools](https://www.w3schools.com/js/)
+* [Geographic Information System--National Geographic (encyclopedia)](https://www.nationalgeographic.org/encyclopedia/geographic-information-system-gis/)
+* [Careers in GIS--Esri (company sponsored site)](https://www.esri.com/en-us/what-is-gis/careers)
 * [Web Site Name](http://url.link.goes.here)
 
 # Future Work
