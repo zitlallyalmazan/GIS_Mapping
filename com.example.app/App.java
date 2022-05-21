@@ -34,7 +34,7 @@ public class App extends Application {
 
         // Note: it is not best practice to store API keys in source code.
         // The API key is referenced here for the convenience of this tutorial.
-        String yourApiKey = "YOUR KEY HERE";
+        String yourApiKey = "YOUR_API_KEY";
         ArcGISRuntimeEnvironment.setApiKey(yourApiKey);
 
         // create a map view to display the map and add it to the stack pane
