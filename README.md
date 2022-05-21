@@ -1,6 +1,6 @@
 # Overview
 
-I will be creating a mobile app that generates a map with markers on the map showing where and how many births take place in a specific area. The map's characteristics will use the ArcGIS library, will show at least 20 markers on the map, and allow the user to see a popup with information when they click on the marker. 
+I will be creating a website that generates a map with markers on the map showing where and how many births take place in a specific area. The map's characteristics will use the ArcGIS library, will show at least 20 markers on the map, and allow the user to see a popup with information when they click on the marker. 
 
 Watch my demonstration below!
 
